@@ -4,6 +4,7 @@ public class HelloWorld {
 	/**
 	 * Alterações efectuadas no firstBranch.
 	 * Edição ofline, no Eclipse.
+	 * Edição online, no GitHub.
 	 * 
 	 * @param args
 	 */
